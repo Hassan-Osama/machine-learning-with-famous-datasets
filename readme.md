@@ -19,8 +19,15 @@ Each folder inside this repo corresponds to a single dataset and contains all co
 
 ##  Completed Projects
 
-- [Titanic - Survival Prediction](./Titanic/)
-- [More Coming Soon...]
+- [**🛍️ E-commerce – Customer Segmentation with RFM & Clustering**](./E-commerce/)  
+  Segments customers of an online store using **RFM (Recency, Frequency, Monetary)** analysis and **K-Means clustering**.  
+  Includes detailed EDA, optimal cluster selection, and actionable business insights for targeted marketing.
+
+- [**🚢 Titanic – Survival Prediction**](./Titanic/)  
+  Predict which passengers survived the Titanic disaster using classic machine learning techniques.  
+  Features EDA, feature engineering, and multiple model comparisons on one of the most famous datasets in data science.
+
+- *More coming soon…* Stay tuned for exciting real-world projects exploring advanced analytics, AI applications, and business insights.
 
 ---
 
